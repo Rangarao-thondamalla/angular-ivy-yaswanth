@@ -1,3 +1,9 @@
 p {
   font-family: Lato;
 }
+body{
+  margin: auto, 0px;
+}
+main {
+  padding-top:50px; 
+}
